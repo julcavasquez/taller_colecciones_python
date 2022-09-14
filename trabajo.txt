@@ -8,3 +8,9 @@ jueves
 viernes
 sabado
 domingo
+
+mestaciones del año
+verano
+invierno
+otoño
+primavera
